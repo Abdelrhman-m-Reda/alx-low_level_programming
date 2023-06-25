@@ -1,12 +1,15 @@
-#includ "main.h"
+#include "main.h"
 
 /**
- * print_sinn - prints the sign of a number
+ * description: print_sign - prints the sign of a number
+ *
  * @n: the number to be checked
- * return: 1 for the postitive num, -1 for negative num or zero  for anthing else
+ *
+ * return: 1 is c is true else return - 1
+ *
  */
 
-int print_sign(int n);
+int print_sign(int n)
 {
 	if (n > 0)
 	{
