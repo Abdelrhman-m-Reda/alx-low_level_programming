@@ -2,9 +2,11 @@
 
 /**
  * jack_bauer - prints every mintes of the day
-
+ *
+ * Return: Always 0.
 */
-void jack_bauer(void)
+
+int jack_bauer(void)
 {
 	int min, hr;
 
