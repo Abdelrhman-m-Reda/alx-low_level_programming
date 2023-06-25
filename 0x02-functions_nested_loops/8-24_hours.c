@@ -6,11 +6,11 @@
  * Return: Always 0.
 */
 
-int jack_bauer(void)
+void jack_bauer(void)
 {
 	int min, hr;
 
-	for (hr = 0; hr <=24; hr++)
+	for (hr = 0; hr <=23; hr++)
 	{
 		for(min = 0; min <=59; min++)
 		{
