@@ -2,7 +2,7 @@
 
 /**
  * swap_int - swap the valuses of two integers
- * 		using tow input parameters
+ *		using tow input parameters
  *
  * @a: input parameter 1
  * @b: input parameter 2
